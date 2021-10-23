@@ -1,0 +1,2 @@
+# Saturo-Sustainable-bot-
+Given the sustainable goal of Industry, Innovation and Infrastructure I decided to create a discord bot by using discord.py library and hosted it upon web with the help of repl.it and uptimerobot.com Saturo is a sustainable bot that can be used to know much more about the goal of industry innovation and infrastructure.  If you would like to access the bot you can use the given discord server link: https://discord.gg/GStUeFcB
